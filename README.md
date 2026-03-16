@@ -1,4 +1,4 @@
-# Vertretungsplan Discord Bot
+# WebUntis Cancellation - Discord Bot
 
 Discord bot that monitors your WebUntis timetable and sends notifications when periods get cancelled, substituted, or moved to a different room.
 
